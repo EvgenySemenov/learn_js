@@ -1,0 +1,19 @@
+{
+  "name": "learn_js",
+  "version": "1.0.0",
+  "description": "my course js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvgenySemenov/learn_js.git"
+  },
+  "author": "Semenov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EvgenySemenov/learn_js/issues"
+  },
+  "homepage": "https://github.com/EvgenySemenov/learn_js#readme"
+}
